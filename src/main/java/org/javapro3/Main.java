@@ -9,7 +9,7 @@ import static org.javapro3.entities.TestRunner.runTests;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("JavaPro3Mmln01 started...");
+        System.out.println("JavaPro3Mmln01 started... WorkFinished ");
 
         List<MyClasses> clList = List.of(new MyClassA(4,2), new MyClassB(4,2), new MyClassC(4,2),
                 new MyClassD(4,2), new MyClassE(4,2), new MyClassF(4,2)  );
